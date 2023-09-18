@@ -30,6 +30,9 @@ a{
 	margin: 26px;
 	padding:16px;
 	border-radius:9px;
+	width:fit-content;
+	display:block;
+	margin:auto;
 }
 p{
 	font-size:15px;
