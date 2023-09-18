@@ -34,6 +34,9 @@ a{
 	display:block;
 	margin:auto;
 }
+.player_one{
+	background-color: rgb(255, 255, 255);
+}
 p{
 	font-size:15px;
 	font-weight:550;
